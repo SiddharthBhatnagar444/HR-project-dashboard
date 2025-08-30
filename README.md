@@ -71,10 +71,10 @@ Provide HR teams with a single source of truth to explore workforce composition,
 > Replace `link-to-your-image` with your file paths, e.g. `./images/attrition.png`.
 
 - **Attrition Analysis**  
-  ![Attrition Analysis](link-to-your-image)
+  ![Attrition Analysis](HR project sheet 1.png)
 
 - **Inclusion (Sheet 2)**  
-  ![Inclusion](link-to-your-image)
+  ![Inclusion](HR project sheet 2.png)
 
 - **Career Growth & Promotion (Sheet 3)**  
-  ![Career Growth & Promotion](link-to-your-image)
+  ![Career Growth & Promotion](HR project sheet 3.png)

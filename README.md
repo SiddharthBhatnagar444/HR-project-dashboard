@@ -77,6 +77,6 @@ Provide HR teams with a single source of truth to explore workforce composition,
 - **Inclusion Analysis**  
   ![Inclusion Analysis](./HR%20project%20sheet%202.png)  
 
-- **Employee Analysis**  
+- **Career Growth Analysis**  
   ![Employee Analysis](./HR%20project%20sheet%203.png)  
 

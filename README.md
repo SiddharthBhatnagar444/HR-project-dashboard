@@ -60,10 +60,10 @@ Provide HR teams with a single source of truth to explore workforce composition,
 - **Interactive Filters / Slicers:** Department, job role, job level, overtime, and satisfaction
 
 ### d) Business Impact & Insights
-- Identify high-attrition departments and roles  
-- Highlight gender pay gaps and promotion patterns  
-- Guide HR in restructuring promotion cycles to retain talent  
-- Support data-driven HR decisions for engagement & retention
+- To identify high-attrition departments and roles to help HR create targeted retention strategies. 
+- To identify hidden biases and ensure equitable workplace policies. 
+- To guide HR in restructuring promotion cycles to retain talent  
+- To support data-driven HR decisions for engagement & retention
 
 ---
 
